@@ -8,19 +8,20 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software-Testing%20Engineer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-- 🏢 I'm a junior Embedded Software Engineer.
-- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with C++, C, and Embedded projects with ESP32, or anything related to Embedded development.
-- ⚡ Fun Fact: I always love to do the hardest sports I know about like calisthenic and parkour.
+- 🏢 I'm a junior Software Testing Engineer.
+- 👨‍💻 As an ITI intern & CS student, I'm constantly learning and exploring new technologies to improve my skills.
+- 💬 Ask me about my experience with C++, C, Java, HTML & CSS, Manual testing, API testing, or Embedded projects with ESP32.
+- ⚡ Fun Fact: I always love to do the hardest sports I know about, like calisthenics, parkour, and swimming.
 
 
 ### Connect with Me :
 
-<a href="[https://linkedin.com/in/yousefdergham](https://www.linkedin.com/in/abdelaziz-gamal-2518111b6/)" target="_blank"><img src="https://img.shields.io/badge/-ABDELAZIZ%20GAMAL-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://t.me/ABDELAZIZ_GAMAL0" target="_blank"><img src="https://img.shields.io/badge/-ABDELAZIZ%20GAMAL-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/abdelaziz-gamal-2518111b6/" target="_blank">
+  <img src="https://img.shields.io/badge/-ABDELAZIZ%20GAMAL-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+</a> <br>
 ### 🛠 &nbsp;Tech Stack
 ![EMBEDDED](https://img.shields.io/badge/-EMBEDDED-05122A?style=flat&logo=EMBEDDED)&nbsp;
 ![C](https://img.shields.io/badge/-05122A?style=flat&logo=C&logoColor=563D7C)&nbsp;
