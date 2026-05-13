@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/-ABDELAZIZ%20GAMAL-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
 </a> <br>
 
-### 🛠 &nbsp;Tech Stack
+
 ### 🛠 &nbsp;Tech Stack
 
 ![EMBEDDED](https://img.shields.io/badge/-EMBEDDED-05122A?style=flat&logo=EMBEDDED)&nbsp;
